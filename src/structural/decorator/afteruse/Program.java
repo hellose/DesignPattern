@@ -1,4 +1,4 @@
-package decorator.afteruse;
+package structural.decorator.afteruse;
 
 //실제 !!!상속으로 서브클래스를 계속 만드는 방법이 실질적이지 못할 때!!! 사용
 //너무 많은 수의 독립된 확장이 가능한 경우가 존재할때 !!!모든 조합을 지원하기 위해 사용!!!

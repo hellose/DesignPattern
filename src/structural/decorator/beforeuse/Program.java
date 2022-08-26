@@ -1,4 +1,4 @@
-package decorator.beforeuse;
+package structural.decorator.beforeuse;
 
 class Program {
 	public static void main(String[] args) {
